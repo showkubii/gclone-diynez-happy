@@ -1,4 +1,4 @@
-module github.com/l3v11/gclone
+module github.com/showkubii/gclone-diynez-happy
 
 go 1.16
 
