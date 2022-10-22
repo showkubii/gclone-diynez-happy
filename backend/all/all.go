@@ -12,7 +12,7 @@ import (
 	_ "github.com/rclone/rclone/backend/combine"
 	_ "github.com/rclone/rclone/backend/compress"
 	_ "github.com/rclone/rclone/backend/crypt"
-	_ "github.com/l3v11/gclone/backend/drive"
+	_ "github.com/showkubii/gclone-diynez-happy/backend/drive"
 	_ "github.com/rclone/rclone/backend/dropbox"
 	_ "github.com/rclone/rclone/backend/fichier"
 	_ "github.com/rclone/rclone/backend/filefabric"
