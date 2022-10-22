@@ -23,7 +23,6 @@ import (
 	_ "github.com/rclone/rclone/backend/hdfs"
 	_ "github.com/rclone/rclone/backend/hidrive"
 	_ "github.com/rclone/rclone/backend/http"
-	_ "github.com/rclone/rclone/backend/hubic"
 	_ "github.com/rclone/rclone/backend/internetarchive"
 	_ "github.com/rclone/rclone/backend/jottacloud"
 	_ "github.com/rclone/rclone/backend/koofr"
