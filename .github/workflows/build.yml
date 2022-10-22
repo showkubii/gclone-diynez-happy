@@ -140,3 +140,4 @@ jobs:
         # working-directory: '$(modulePath)'
         # Deploy binaries if enabled in config && not a PR && not a fork
         if: matrix.deploy && github.head_ref == '' && github.repository == 'showkubii/gclone-diynez'
+#diynez
