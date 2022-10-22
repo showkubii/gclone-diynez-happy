@@ -1,4 +1,4 @@
-[![build](https://github.com/showkubii/gclone-diynez/actions/workflows/build.yml/badge.svg)](https://github.com/showkubii/gclone-diynez/actions/workflows/build.yml)
+[![build](https://github.com/showkubii/gclone-diynez/actions/workflows/build.yml/badge.svg?event=push)](https://github.com/showkubii/gclone-diynez/actions/workflows/build.yml)
 
 # Gclone
 
