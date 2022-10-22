@@ -15,7 +15,7 @@ import (
 	_ "github.com/rclone/rclone/cmd/cleanup"
 	_ "github.com/rclone/rclone/cmd/cmount"
 	_ "github.com/rclone/rclone/cmd/config"
-	_ "github.com/l3v11/gclone/cmd/copy"
+	_ "github.com/showkubii/gclone-diynez-happy/cmd/copy"
 	_ "github.com/rclone/rclone/cmd/copyto"
 	_ "github.com/rclone/rclone/cmd/copyurl"
 	_ "github.com/rclone/rclone/cmd/cryptcheck"
