@@ -6,7 +6,7 @@
 
 set -e
 
-REPO="l3v11/gclone"
+REPO="showkubii/gclone-diynez-happy"
 
 if [ "$1" == "" ]; then
     echo "Syntax: $0 Version"
