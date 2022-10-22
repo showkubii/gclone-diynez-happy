@@ -1,3 +1,5 @@
+[![build](https://github.com/showkubii/gclone-diynez/actions/workflows/build.yml/badge.svg)](https://github.com/showkubii/gclone-diynez/actions/workflows/build.yml)
+
 # Gclone
 
 Gclone *(a modified version of the [rclone](https://github.com/rclone/rclone))* is a command-line program to sync files and directories to and from Google Drive.
