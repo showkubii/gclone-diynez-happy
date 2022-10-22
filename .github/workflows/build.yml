@@ -139,5 +139,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         # working-directory: '$(modulePath)'
         # Deploy binaries if enabled in config && not a PR && not a fork
-        if: matrix.deploy && github.head_ref == '' && github.repository == 'showkubii/gclone-diynez'
+        if: matrix.deploy && github.head_ref == '' && github.repository == 'showkubii/gclone-diynez-happy'
 
